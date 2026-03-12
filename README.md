@@ -27,4 +27,20 @@ The dashboard provides a visual summary of call center performance, highlighting
 
 
 ## Key Insights
+- Revenue remained relatively stable across the year.
+- Call volume varied across months.
+- High call activity did not always translate into higher revenue.
+- Some agents generated significantly higher revenue than others.
+
+
+## Recommendations
+- Provide additional training for lower-performing agents.
+- Share strategies used by top-performing agents.
+- Monitor operational metrics regularly.
+
+
+## Project Files
+ - Excel Analysis File
+ - PowerPoint Presentation
+ - Portfolio PDF
 
