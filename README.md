@@ -1,7 +1,7 @@
 # Call Center Performance Analysis
 
 ## Project Overview
-This Project analyzes call center performance using operational data such as total calls,calls reached, deals closed, total revenue, reach rate and overall conversion rate.
+This Project analyzes call center performance using operational data such as total calls, calls reached, deals closed, total revenue, reach rate and overall conversion rate.
 The goal of the analysis was to evaluate revenue performance, identify trends in call activity, and assess agent performance to uncover opportunities for improvement.
 
 ### Tools Used
